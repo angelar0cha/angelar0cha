@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @angelar0cha or Angel 
 - 🌱 I’m currently learning about technical writing
-- ⚡ Fun fact: I may love Spider-Man, but I have arachnophobia
+- ⚡ Fun fact: I may love Spider-Man, but I have 	*italicized text* arachnophobia 
 - 👀 I’m interested in music, horror movies, Asian series, spicy food, technology, agribusiness much more
 
 <!---
